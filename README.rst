@@ -14,7 +14,7 @@ Steps:
       > import package.subpkg.mod
 
   * Inspect the log directory that will have been output in the calling directory. 
-    It is named as Package_Logs. 
+    It is named as Logs_Package. 
 
 
 
